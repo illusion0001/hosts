@@ -360,3 +360,15 @@
 127.0.0.1 pricelist.skype.com
 127.0.0.1 s.gateway.messenger.live.com
 127.0.0.1 ui.skype.com
+
+# Nvidia
+gfwsl.geforce.com
+gfe.geforce.com
+telemetry.nvidia.com
+gfe.nvidia.com
+telemetry.gfe.nvidia.com
+# This one is always being checked every few seconds
+events.gfe.nvidia.com
+ssl.google-analytics.com
+nvidia.tt.omtrdc.net
+services.gfe.nvidia.com
