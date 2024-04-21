@@ -1,3 +1,4 @@
+# This file can be appended to your existing local host file
 # PlayStation Telemetry + Firmware Updates
 # https://github.com/Al-Azif/exploit-host-cc/blob/e62af4f371b994d4a62e941df8d3e2d2a1637d7e/main.py
 
@@ -362,13 +363,13 @@
 127.0.0.1 ui.skype.com
 
 # Nvidia
-gfwsl.geforce.com
-gfe.geforce.com
-telemetry.nvidia.com
-gfe.nvidia.com
-telemetry.gfe.nvidia.com
+127.0.0.1 gfwsl.geforce.com
+127.0.0.1 gfe.geforce.com
+127.0.0.1 telemetry.nvidia.com
+127.0.0.1 gfe.nvidia.com
+127.0.0.1 telemetry.gfe.nvidia.com
 # This one is always being checked every few seconds
-events.gfe.nvidia.com
-ssl.google-analytics.com
-nvidia.tt.omtrdc.net
-services.gfe.nvidia.com
+127.0.0.1 events.gfe.nvidia.com
+127.0.0.1 ssl.google-analytics.com
+127.0.0.1 nvidia.tt.omtrdc.net
+127.0.0.1 services.gfe.nvidia.com
