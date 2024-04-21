@@ -17,6 +17,7 @@
 127.0.0.1 zeke.scea.com
 127.0.0.1 qgve.dl.playstation.net
 127.0.0.1 ps4updptl.sa.np.community.playstation.net
+# This one is always being checked every few seconds on PS4
 127.0.0.1 event.api.np.km.playstation.net
 127.0.0.1 static-resource.np.community.playstation.net
 127.0.0.1 update.net.playstation.net
