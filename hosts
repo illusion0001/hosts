@@ -206,7 +206,8 @@
 127.0.0.1 hhk01.ps5.update.playstation.net
 127.0.0.1 hbr01.ps5.update.playstation.net
 
-# Tenda
+# Tenda device listener?
+# https://github.com/mrxehmad/api.cloud.tenda.com.cn
 127.0.0.1 api.cloud.tenda.com.cn
 
 # Insomniac Games
