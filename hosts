@@ -206,6 +206,9 @@
 127.0.0.1 hhk01.ps5.update.playstation.net
 127.0.0.1 hbr01.ps5.update.playstation.net
 
+# Tenda
+127.0.0.1 api.cloud.tenda.com.cn
+
 # Insomniac Games
 127.0.0.1 i31.api.wwsga.me
 
