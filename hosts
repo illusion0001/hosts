@@ -75,137 +75,136 @@
 127.0.0.1 invitation-dialog.rnps.dl.playstation.net
 127.0.0.1 cfss.crs.playstation.net
 127.0.0.1 ps4updptl.jp.np.community.playstation.net
-# Use this instead https://gist.github.com/Al-Azif/296c7a4319c2fe3b597d96206213cdb6
-# 127.0.0.1 djp01.ps3.update.playstation.net
-# 127.0.0.1 dus01.ps3.update.playstation.net
-# 127.0.0.1 deu01.ps3.update.playstation.net
-# 127.0.0.1 dkr01.ps3.update.playstation.net
-# 127.0.0.1 duk01.ps3.update.playstation.net
-# 127.0.0.1 dmx01.ps3.update.playstation.net
-# 127.0.0.1 dau01.ps3.update.playstation.net
-# 127.0.0.1 dsa01.ps3.update.playstation.net
-# 127.0.0.1 dtw01.ps3.update.playstation.net
-# 127.0.0.1 dru01.ps3.update.playstation.net
-# 127.0.0.1 dcn01.ps3.update.playstation.net
-# 127.0.0.1 dhk01.ps3.update.playstation.net
-# 127.0.0.1 dbr01.ps3.update.playstation.net
-# 127.0.0.1 djp01.ps4.update.playstation.net
-# 127.0.0.1 dus01.ps4.update.playstation.net
-# 127.0.0.1 deu01.ps4.update.playstation.net
-# 127.0.0.1 dkr01.ps4.update.playstation.net
-# 127.0.0.1 duk01.ps4.update.playstation.net
-# 127.0.0.1 dmx01.ps4.update.playstation.net
-# 127.0.0.1 dau01.ps4.update.playstation.net
-# 127.0.0.1 dsa01.ps4.update.playstation.net
-# 127.0.0.1 dtw01.ps4.update.playstation.net
-# 127.0.0.1 dru01.ps4.update.playstation.net
-# 127.0.0.1 dcn01.ps4.update.playstation.net
-# 127.0.0.1 dhk01.ps4.update.playstation.net
-# 127.0.0.1 dbr01.ps4.update.playstation.net
-# 127.0.0.1 djp01.ps5.update.playstation.net
-# 127.0.0.1 dus01.ps5.update.playstation.net
-# 127.0.0.1 deu01.ps5.update.playstation.net
-# 127.0.0.1 dkr01.ps5.update.playstation.net
-# 127.0.0.1 duk01.ps5.update.playstation.net
-# 127.0.0.1 dmx01.ps5.update.playstation.net
-# 127.0.0.1 dau01.ps5.update.playstation.net
-# 127.0.0.1 dsa01.ps5.update.playstation.net
-# 127.0.0.1 dtw01.ps5.update.playstation.net
-# 127.0.0.1 dru01.ps5.update.playstation.net
-# 127.0.0.1 dcn01.ps5.update.playstation.net
-# 127.0.0.1 dhk01.ps5.update.playstation.net
-# 127.0.0.1 dbr01.ps5.update.playstation.net
-# 127.0.0.1 djp01.psp2.update.playstation.net
-# 127.0.0.1 dus01.psp2.update.playstation.net
-# 127.0.0.1 deu01.psp2.update.playstation.net
-# 127.0.0.1 dkr01.psp2.update.playstation.net
-# 127.0.0.1 duk01.psp2.update.playstation.net
-# 127.0.0.1 dmx01.psp2.update.playstation.net
-# 127.0.0.1 dau01.psp2.update.playstation.net
-# 127.0.0.1 dsa01.psp2.update.playstation.net
-# 127.0.0.1 dtw01.psp2.update.playstation.net
-# 127.0.0.1 dru01.psp2.update.playstation.net
-# 127.0.0.1 dcn01.psp2.update.playstation.net
-# 127.0.0.1 dhk01.psp2.update.playstation.net
-# 127.0.0.1 dbr01.psp2.update.playstation.net
-# 127.0.0.1 fjp01.ps3.update.playstation.net
-# 127.0.0.1 fus01.ps3.update.playstation.net
-# 127.0.0.1 feu01.ps3.update.playstation.net
-# 127.0.0.1 fkr01.ps3.update.playstation.net
-# 127.0.0.1 fuk01.ps3.update.playstation.net
-# 127.0.0.1 fmx01.ps3.update.playstation.net
-# 127.0.0.1 fau01.ps3.update.playstation.net
-# 127.0.0.1 fsa01.ps3.update.playstation.net
-# 127.0.0.1 ftw01.ps3.update.playstation.net
-# 127.0.0.1 fru01.ps3.update.playstation.net
-# 127.0.0.1 fcn01.ps3.update.playstation.net
-# 127.0.0.1 fhk01.ps3.update.playstation.net
-# 127.0.0.1 fbr01.ps3.update.playstation.net
-# 127.0.0.1 fjp01.ps4.update.playstation.net
-# 127.0.0.1 fus01.ps4.update.playstation.net
-# 127.0.0.1 feu01.ps4.update.playstation.net
-# 127.0.0.1 fkr01.ps4.update.playstation.net
-# 127.0.0.1 fuk01.ps4.update.playstation.net
-# 127.0.0.1 fmx01.ps4.update.playstation.net
-# 127.0.0.1 fau01.ps4.update.playstation.net
-# 127.0.0.1 fsa01.ps4.update.playstation.net
-# 127.0.0.1 ftw01.ps4.update.playstation.net
-# 127.0.0.1 fru01.ps4.update.playstation.net
-# 127.0.0.1 fcn01.ps4.update.playstation.net
-# 127.0.0.1 fhk01.ps4.update.playstation.net
-# 127.0.0.1 fbr01.ps4.update.playstation.net
-# 127.0.0.1 fjp01.ps5.update.playstation.net
-# 127.0.0.1 fus01.ps5.update.playstation.net
-# 127.0.0.1 feu01.ps5.update.playstation.net
-# 127.0.0.1 fkr01.ps5.update.playstation.net
-# 127.0.0.1 fuk01.ps5.update.playstation.net
-# 127.0.0.1 fmx01.ps5.update.playstation.net
-# 127.0.0.1 fau01.ps5.update.playstation.net
-# 127.0.0.1 fsa01.ps5.update.playstation.net
-# 127.0.0.1 ftw01.ps5.update.playstation.net
-# 127.0.0.1 fru01.ps5.update.playstation.net
-# 127.0.0.1 fcn01.ps5.update.playstation.net
-# 127.0.0.1 fhk01.ps5.update.playstation.net
-# 127.0.0.1 fbr01.ps5.update.playstation.net
-# 127.0.0.1 fjp01.psp2.update.playstation.net
-# 127.0.0.1 fus01.psp2.update.playstation.net
-# 127.0.0.1 feu01.psp2.update.playstation.net
-# 127.0.0.1 fkr01.psp2.update.playstation.net
-# 127.0.0.1 fuk01.psp2.update.playstation.net
-# 127.0.0.1 fmx01.psp2.update.playstation.net
-# 127.0.0.1 fau01.psp2.update.playstation.net
-# 127.0.0.1 fsa01.psp2.update.playstation.net
-# 127.0.0.1 ftw01.psp2.update.playstation.net
-# 127.0.0.1 fru01.psp2.update.playstation.net
-# 127.0.0.1 fcn01.psp2.update.playstation.net
-# 127.0.0.1 fhk01.psp2.update.playstation.net
-# 127.0.0.1 fbr01.psp2.update.playstation.net
-# 127.0.0.1 hjp01.ps4.update.playstation.net
-# 127.0.0.1 hus01.ps4.update.playstation.net
-# 127.0.0.1 heu01.ps4.update.playstation.net
-# 127.0.0.1 hkr01.ps4.update.playstation.net
-# 127.0.0.1 huk01.ps4.update.playstation.net
-# 127.0.0.1 hmx01.ps4.update.playstation.net
-# 127.0.0.1 hau01.ps4.update.playstation.net
-# 127.0.0.1 hsa01.ps4.update.playstation.net
-# 127.0.0.1 htw01.ps4.update.playstation.net
-# 127.0.0.1 hru01.ps4.update.playstation.net
-# 127.0.0.1 hcn01.ps4.update.playstation.net
-# 127.0.0.1 hhk01.ps4.update.playstation.net
-# 127.0.0.1 hbr01.ps4.update.playstation.net
-# 127.0.0.1 hjp01.ps5.update.playstation.net
-# 127.0.0.1 hus01.ps5.update.playstation.net
-# 127.0.0.1 heu01.ps5.update.playstation.net
-# 127.0.0.1 hkr01.ps5.update.playstation.net
-# 127.0.0.1 huk01.ps5.update.playstation.net
-# 127.0.0.1 hmx01.ps5.update.playstation.net
-# 127.0.0.1 hau01.ps5.update.playstation.net
-# 127.0.0.1 hsa01.ps5.update.playstation.net
-# 127.0.0.1 htw01.ps5.update.playstation.net
-# 127.0.0.1 hru01.ps5.update.playstation.net
-# 127.0.0.1 hcn01.ps5.update.playstation.net
-# 127.0.0.1 hhk01.ps5.update.playstation.net
-# 127.0.0.1 hbr01.ps5.update.playstation.net
+127.0.0.1 djp01.ps3.update.playstation.net
+127.0.0.1 dus01.ps3.update.playstation.net
+127.0.0.1 deu01.ps3.update.playstation.net
+127.0.0.1 dkr01.ps3.update.playstation.net
+127.0.0.1 duk01.ps3.update.playstation.net
+127.0.0.1 dmx01.ps3.update.playstation.net
+127.0.0.1 dau01.ps3.update.playstation.net
+127.0.0.1 dsa01.ps3.update.playstation.net
+127.0.0.1 dtw01.ps3.update.playstation.net
+127.0.0.1 dru01.ps3.update.playstation.net
+127.0.0.1 dcn01.ps3.update.playstation.net
+127.0.0.1 dhk01.ps3.update.playstation.net
+127.0.0.1 dbr01.ps3.update.playstation.net
+127.0.0.1 djp01.ps4.update.playstation.net
+127.0.0.1 dus01.ps4.update.playstation.net
+127.0.0.1 deu01.ps4.update.playstation.net
+127.0.0.1 dkr01.ps4.update.playstation.net
+127.0.0.1 duk01.ps4.update.playstation.net
+127.0.0.1 dmx01.ps4.update.playstation.net
+127.0.0.1 dau01.ps4.update.playstation.net
+127.0.0.1 dsa01.ps4.update.playstation.net
+127.0.0.1 dtw01.ps4.update.playstation.net
+127.0.0.1 dru01.ps4.update.playstation.net
+127.0.0.1 dcn01.ps4.update.playstation.net
+127.0.0.1 dhk01.ps4.update.playstation.net
+127.0.0.1 dbr01.ps4.update.playstation.net
+127.0.0.1 djp01.ps5.update.playstation.net
+127.0.0.1 dus01.ps5.update.playstation.net
+127.0.0.1 deu01.ps5.update.playstation.net
+127.0.0.1 dkr01.ps5.update.playstation.net
+127.0.0.1 duk01.ps5.update.playstation.net
+127.0.0.1 dmx01.ps5.update.playstation.net
+127.0.0.1 dau01.ps5.update.playstation.net
+127.0.0.1 dsa01.ps5.update.playstation.net
+127.0.0.1 dtw01.ps5.update.playstation.net
+127.0.0.1 dru01.ps5.update.playstation.net
+127.0.0.1 dcn01.ps5.update.playstation.net
+127.0.0.1 dhk01.ps5.update.playstation.net
+127.0.0.1 dbr01.ps5.update.playstation.net
+127.0.0.1 djp01.psp2.update.playstation.net
+127.0.0.1 dus01.psp2.update.playstation.net
+127.0.0.1 deu01.psp2.update.playstation.net
+127.0.0.1 dkr01.psp2.update.playstation.net
+127.0.0.1 duk01.psp2.update.playstation.net
+127.0.0.1 dmx01.psp2.update.playstation.net
+127.0.0.1 dau01.psp2.update.playstation.net
+127.0.0.1 dsa01.psp2.update.playstation.net
+127.0.0.1 dtw01.psp2.update.playstation.net
+127.0.0.1 dru01.psp2.update.playstation.net
+127.0.0.1 dcn01.psp2.update.playstation.net
+127.0.0.1 dhk01.psp2.update.playstation.net
+127.0.0.1 dbr01.psp2.update.playstation.net
+127.0.0.1 fjp01.ps3.update.playstation.net
+127.0.0.1 fus01.ps3.update.playstation.net
+127.0.0.1 feu01.ps3.update.playstation.net
+127.0.0.1 fkr01.ps3.update.playstation.net
+127.0.0.1 fuk01.ps3.update.playstation.net
+127.0.0.1 fmx01.ps3.update.playstation.net
+127.0.0.1 fau01.ps3.update.playstation.net
+127.0.0.1 fsa01.ps3.update.playstation.net
+127.0.0.1 ftw01.ps3.update.playstation.net
+127.0.0.1 fru01.ps3.update.playstation.net
+127.0.0.1 fcn01.ps3.update.playstation.net
+127.0.0.1 fhk01.ps3.update.playstation.net
+127.0.0.1 fbr01.ps3.update.playstation.net
+127.0.0.1 fjp01.ps4.update.playstation.net
+127.0.0.1 fus01.ps4.update.playstation.net
+127.0.0.1 feu01.ps4.update.playstation.net
+127.0.0.1 fkr01.ps4.update.playstation.net
+127.0.0.1 fuk01.ps4.update.playstation.net
+127.0.0.1 fmx01.ps4.update.playstation.net
+127.0.0.1 fau01.ps4.update.playstation.net
+127.0.0.1 fsa01.ps4.update.playstation.net
+127.0.0.1 ftw01.ps4.update.playstation.net
+127.0.0.1 fru01.ps4.update.playstation.net
+127.0.0.1 fcn01.ps4.update.playstation.net
+127.0.0.1 fhk01.ps4.update.playstation.net
+127.0.0.1 fbr01.ps4.update.playstation.net
+127.0.0.1 fjp01.ps5.update.playstation.net
+127.0.0.1 fus01.ps5.update.playstation.net
+127.0.0.1 feu01.ps5.update.playstation.net
+127.0.0.1 fkr01.ps5.update.playstation.net
+127.0.0.1 fuk01.ps5.update.playstation.net
+127.0.0.1 fmx01.ps5.update.playstation.net
+127.0.0.1 fau01.ps5.update.playstation.net
+127.0.0.1 fsa01.ps5.update.playstation.net
+127.0.0.1 ftw01.ps5.update.playstation.net
+127.0.0.1 fru01.ps5.update.playstation.net
+127.0.0.1 fcn01.ps5.update.playstation.net
+127.0.0.1 fhk01.ps5.update.playstation.net
+127.0.0.1 fbr01.ps5.update.playstation.net
+127.0.0.1 fjp01.psp2.update.playstation.net
+127.0.0.1 fus01.psp2.update.playstation.net
+127.0.0.1 feu01.psp2.update.playstation.net
+127.0.0.1 fkr01.psp2.update.playstation.net
+127.0.0.1 fuk01.psp2.update.playstation.net
+127.0.0.1 fmx01.psp2.update.playstation.net
+127.0.0.1 fau01.psp2.update.playstation.net
+127.0.0.1 fsa01.psp2.update.playstation.net
+127.0.0.1 ftw01.psp2.update.playstation.net
+127.0.0.1 fru01.psp2.update.playstation.net
+127.0.0.1 fcn01.psp2.update.playstation.net
+127.0.0.1 fhk01.psp2.update.playstation.net
+127.0.0.1 fbr01.psp2.update.playstation.net
+127.0.0.1 hjp01.ps4.update.playstation.net
+127.0.0.1 hus01.ps4.update.playstation.net
+127.0.0.1 heu01.ps4.update.playstation.net
+127.0.0.1 hkr01.ps4.update.playstation.net
+127.0.0.1 huk01.ps4.update.playstation.net
+127.0.0.1 hmx01.ps4.update.playstation.net
+127.0.0.1 hau01.ps4.update.playstation.net
+127.0.0.1 hsa01.ps4.update.playstation.net
+127.0.0.1 htw01.ps4.update.playstation.net
+127.0.0.1 hru01.ps4.update.playstation.net
+127.0.0.1 hcn01.ps4.update.playstation.net
+127.0.0.1 hhk01.ps4.update.playstation.net
+127.0.0.1 hbr01.ps4.update.playstation.net
+127.0.0.1 hjp01.ps5.update.playstation.net
+127.0.0.1 hus01.ps5.update.playstation.net
+127.0.0.1 heu01.ps5.update.playstation.net
+127.0.0.1 hkr01.ps5.update.playstation.net
+127.0.0.1 huk01.ps5.update.playstation.net
+127.0.0.1 hmx01.ps5.update.playstation.net
+127.0.0.1 hau01.ps5.update.playstation.net
+127.0.0.1 hsa01.ps5.update.playstation.net
+127.0.0.1 htw01.ps5.update.playstation.net
+127.0.0.1 hru01.ps5.update.playstation.net
+127.0.0.1 hcn01.ps5.update.playstation.net
+127.0.0.1 hhk01.ps5.update.playstation.net
+127.0.0.1 hbr01.ps5.update.playstation.net
 
 # Insomniac Games
 127.0.0.1 i31.api.wwsga.me
