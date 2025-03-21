@@ -371,7 +371,8 @@
 ||ui.skype.com^
 
 ! Nvidia
-||gfwsl.geforce.com^
+! Driver page
+! ||gfwsl.geforce.com^
 ||gfe.geforce.com^
 ||telemetry.nvidia.com^
 ||gfe.nvidia.com^
