@@ -369,6 +369,7 @@
 ||pricelist.skype.com^
 ||s.gateway.messenger.live.com^
 ||ui.skype.com^
+||self.events.data.microsoft.com^
 
 ! Nvidia
 ! Driver page
