@@ -213,6 +213,9 @@
 ! Insomniac Games
 ||i31.api.wwsga.me
 
+! Microsoft symbol servers
+@@||msdl.microsoft.com^$important
+
 ! Windows Telemetry
 ! https://github.com^/W4RH4WK/Debloat-Windows-10/blob/d87b4275407e2d8953c1c1d17530b0751c0c97bc/scripts/block-telemetry.ps1#L22-L198
 ||184-86-53-99.deploy.static.akamaitechnologies.com^
