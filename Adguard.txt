@@ -2,6 +2,15 @@
 ! PlayStation Telemetry + Firmware Updates
 ! https://github.com/Al-Azif/exploit-host-cc/blob/e62af4f371b994d4a62e941df8d3e2d2a1637d7e/main.py
 
+! You can add this to custom filtering rules to enable/disable the game updates
+! without having to check for updates
+! PS5 Game Updates
+! ||gst.prod.dl.playstation.net^$important
+! ||sgst.prod.dl.playstation.net^$important
+! PS4 Game Updates
+! ||gs-sec.ww.np.dl.playstation.net^$important
+! ||gs2-sec.ww.np.dl.playstation.net^$important
+
 ||tmdb.np.dl.playstation.net^
 ||ps5.np.playstation.net^
 ||ps4.np.playstation.net^
@@ -213,7 +222,7 @@
 ! Insomniac Games
 ||i31.api.wwsga.me
 
-! Microsoft symbol servers
+! Ignore Microsoft symbol servers
 @@||msdl.microsoft.com^$important
 
 ! Windows Telemetry
