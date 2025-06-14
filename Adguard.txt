@@ -1,79 +1,8 @@
 ! PlayStation Telemetry + Firmware Updates
 ! https://github.com/Al-Azif/exploit-host-cc/blob/e62af4f371b994d4a62e941df8d3e2d2a1637d7e/main.py
 
-||tmdb.np.dl.playstation.net^
-||ps5.np.playstation.net^
-||ps4.np.playstation.net^
-||urlconfig.api.playstation.com^
-||smetrics.aem.playstation.com^
-||envelope1.np.dl.playstation.net^
-||envelope2.np.dl.playstation.net^
-||envelope3.np.dl.playstation.net^
-||cc.prod.gaikai.com^
-||telemetry-console.api.playstation.com^
-||ena.net^.playstation.net^
-||crepo.ww.dl.playstation.net^
-||zeke.scea.com^
-||qgve.dl.playstation.net^
-||ps4updptl.*.np.community.playstation.net^
-! This one is always being checked every few seconds on PS4
-||event.api.np.km.playstation.net^
-||static-resource.np.com^munity.playstation.net^
-||update.net^.playstation.net^
-||us.np.stun.playstation.net^
-||ps4-system.sec.np.dl.playstation.net^
-||rnps-crl.dl.playstation.net^
-||friends.rnps.dl.playstation.net^
-||party.rnps.dl.playstation.net^
-||csla.np.com^munity.playstation.net^
-||fswitch.dl.playstation.net^
-||cfss.dunbar.scea.com^
-||uam-fs.rnps.dl.playstation.net^
-||settings.rnps.dl.playstation.net^
-||millenniumfalcon.rnps.dl.playstation.net^
-||notification-overlay.rnps.dl.playstation.net^
-||profile.rnps.dl.playstation.net^
-||search.rnps.dl.playstation.net^
-||monte-carlo.rnps.dl.playstation.net^
-||gaming-lounge.rnps.dl.playstation.net^
-||trophy.rnps.dl.playstation.net^
-||lfps-bc.rnps.dl.playstation.net^
-||igc-browse.rnps.dl.playstation.net^
-||bgft.rnps.dl.playstation.net^
-||service-hub-psnow.rnps.dl.playstation.net^
-||game-hub.rnps.dl.playstation.net^
-||action-cards-host-app.rnps.dl.playstation.net^
-||service-hub-psplus.rnps.dl.playstation.net^
-||titlestore-preview.rnps.dl.playstation.net^
-||broadcast.rnps.dl.playstation.net^
-||profile-dialog.rnps.dl.playstation.net^
-||elysion.rnps.dl.playstation.net^
-||agent-popupgui.rnps.dl.playstation.net^
-||ppr-bgs.rnps.dl.playstation.net^
-||universal-checkout.rnps.dl.playstation.net^
-||explore-hub.rnps.dl.playstation.net^
-||x-wing.rnps.dl.playstation.net^
-||system-message-client.rnps.dl.playstation.net^
-||library.rnps.dl.playstation.net^
-||cosmiccube.rnps.dl.playstation.net^
-||millenniumfalcon-dialog.rnps.dl.playstation.net^
-||game-hub-preview-launcher.rnps.dl.playstation.net^
-||g2p-dialog.rnps.dl.playstation.net^
-||player-review.rnps.dl.playstation.net^
-||unsupported-title-hub.rnps.dl.playstation.net^
-||compilation-disc-hub.rnps.dl.playstation.net^
-||legal-docs.rnps.dl.playstation.net^
-||screen-share.rnps.dl.playstation.net^
-||onboard-download.rnps.dl.playstation.net^
-||wishlist.rnps.dl.playstation.net^
-||rnps-vr-onboarding.rnps.dl.playstation.net^
-||ppr-crl.rnps.dl.playstation.net^
-||home.rnps.dl.playstation.net^
-||control-center.rnps.dl.playstation.net^
-||player-selection-dialog.rnps.dl.playstation.net^
-||invitation-dialog.rnps.dl.playstation.net^
-||cfss.crs.playstation.net^
-||*.*.update.playstation.net^
+||*playstation.net^
+||*playstation.com^
 
 ! Tenda device listener?
 ! https://github.com/mrxehmad/api.cloud.tenda.com.cn
