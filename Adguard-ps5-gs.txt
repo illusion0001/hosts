@@ -1,0 +1,5 @@
+! You can add this to custom filtering rules to enable/disable the game updates
+! without having to check for updates
+! PS5 Game Updates
+||gst.prod.dl.playstation.net^$important
+||sgst.prod.dl.playstation.net^$important
