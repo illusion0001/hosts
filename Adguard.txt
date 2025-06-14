@@ -15,7 +15,7 @@
 ||crepo.ww.dl.playstation.net^
 ||zeke.scea.com^
 ||qgve.dl.playstation.net^
-||ps4updptl.sa.np.com^munity.playstation.net^
+||ps4updptl.*.np.community.playstation.net^
 ! This one is always being checked every few seconds on PS4
 ||event.api.np.km.playstation.net^
 ||static-resource.np.com^munity.playstation.net^
