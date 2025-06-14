@@ -1,4 +1,3 @@
-! This file can be appended to your existing local host file
 ! PlayStation Telemetry + Firmware Updates
 ! https://github.com/Al-Azif/exploit-host-cc/blob/e62af4f371b994d4a62e941df8d3e2d2a1637d7e/main.py
 
