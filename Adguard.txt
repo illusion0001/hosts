@@ -73,10 +73,7 @@
 ||player-selection-dialog.rnps.dl.playstation.net^
 ||invitation-dialog.rnps.dl.playstation.net^
 ||cfss.crs.playstation.net^
-||*.ps3.update.playstation.net^
-||*.psp2.update.playstation.net^
-||*.ps4.update.playstation.net^
-||*.ps5.update.playstation.net^
+||*.*.update.playstation.net^
 
 ! Tenda device listener?
 ! https://github.com/mrxehmad/api.cloud.tenda.com.cn
