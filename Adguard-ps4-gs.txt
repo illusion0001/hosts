@@ -1,0 +1,5 @@
+! You can add this to custom filtering rules to enable/disable the game updates
+! without having to check for updates
+! PS4 Game Updates
+||gs-sec.ww.np.dl.playstation.net^$important
+||gs2-sec.ww.np.dl.playstation.net^$important
