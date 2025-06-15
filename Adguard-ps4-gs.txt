@@ -2,4 +2,5 @@
 ! without having to check for updates
 ! PS4 Game Updates
 ||gs-sec.ww.np.dl.playstation.net^$important
+||gs2.ww.prod.dl.playstation.net^$important
 ||gs2-sec.ww.np.dl.playstation.net^$important
